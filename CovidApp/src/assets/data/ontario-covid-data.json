@@ -1,0 +1,5 @@
+
+[
+    {"id": 1, "title": "COVID Case 1", "summary": "Details of first case", "details": "More info about case 1"},
+    {"id": 2, "title": "COVID Case 2", "summary": "Details of second case", "details": "More info about case 2"}
+]
